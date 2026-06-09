@@ -47,9 +47,4 @@ npm run dev
 
 Open http://localhost:5173 — click **Sync Market Data** to refresh.
 
-## Demo talking points (Tekwissen HR)
 
-- **Hot skills** — which technologies appear most in live postings
-- **Top hiring companies** — sales lead signals for staffing outreach
-- **Source breakdown** — multi-channel market coverage
-- **Role-specific LinkedIn pulls** — SAP, Java, DevOps, ServiceNow for India & US
